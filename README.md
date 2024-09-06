@@ -1,2 +1,2 @@
 # MOVIE-APP
-Movie App
+Movie App using HTML,CSS and JAVASCRIPT
